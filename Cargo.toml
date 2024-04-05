@@ -9,7 +9,7 @@ categories = ["algorithms", "development-tools::build-utils"]
 
 
 description = "collections of helpfull functions"
-repository = "https://github.com/Arteiii/zenity"
+repository = "https://github.com/Arteiii/utils_arteii_rs"
 keywords = ["helper", "utility"]
 homepage = "https://arteiii.github.io"
 
