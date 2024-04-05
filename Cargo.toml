@@ -1,0 +1,16 @@
+[package]
+name = "utils_arteii_rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["Arteii <ben.arteii@proton.me>"]
+license = "MIT"
+readme = "README.md"
+categories = ["algorithms", "development-tools::build-utils"]
+
+
+description = "collections of helpfull functions"
+repository = "https://github.com/Arteiii/zenity"
+keywords = ["helper", "utility"]
+homepage = "https://arteiii.github.io"
+
+[dependencies]
